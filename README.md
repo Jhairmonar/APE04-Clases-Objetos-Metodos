@@ -2,7 +2,7 @@
 
 **Universidad Técnica de Ambato**  
 Asignatura: Algoritmos y Lógica de Programación  
-Carrera: Software  
+Carrera: Software   
 Docente: José Ruben Caiza
 
 ---
