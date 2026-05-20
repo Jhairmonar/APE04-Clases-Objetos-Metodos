@@ -1,4 +1,4 @@
-# APE04 – Clases, Objetos y Métodos
+# APE04 – Clases, Objetos y Métodos ✔️
 
 **Universidad Técnica de Ambato**  
 Asignatura: Algoritmos y Lógica de Programación  
@@ -7,13 +7,13 @@ Docente: José Ruben Caiza
 
 ---
 
-## Descripción
+## Descripción 📚
 
 Sistema básico de control de estudiantes y calificaciones implementado en **C++** y **Java** aplicando los principios de la Programación Orientada a Objetos: clases, objetos, atributos, constructores, métodos get/set y métodos de lógica.
 
 ---
 
-## Funcionalidades
+## Funcionalidades ⚒️
 
 - Registrar 5 estudiantes con cédula, nombre y apellido
 - Ingresar 3 notas por estudiante (validadas entre 0 y 10)
@@ -24,7 +24,7 @@ Sistema básico de control de estudiantes y calificaciones implementado en **C++
 
 ---
 
-## Estructura del repositorio
+## Estructura del repositorio 🎮
 
 ```
 APE04-Clases-Objetos-Metodos/
@@ -47,8 +47,3 @@ APE04-Clases-Objetos-Metodos/
 ```
 
 ---
-
-
-## Autor
-
-[Tu Nombre] – [Tu Cédula]
